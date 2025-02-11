@@ -9,13 +9,16 @@ I'm a **Production Engineer** with experience in **digital commerce** and **syst
 - **Purchasing Management & E-commerce Operations**
 
 ### 🎓 Education
-Bachelor's in Technology in Systems Development
-Unisalesiano Araçatuba — Currently in the 3rd semester
-Start: 2024 — Expected Graduation: 2026
+
+**Bachelor's in Technology in Systems Development**  
+*Unisalesiano Araçatuba* — Currently in the 3rd semester  
+Start: 2024 — Expected Graduation: 2026  
 Focus on system development, programming, and technological solutions.
 
-Bachelor's in Production Engineering
-Universidade Estadual de Maringá — Graduated in 2012
+---
+
+**Bachelor's in Production Engineering**  
+*Universidade Estadual de Maringá* — Graduated in 2012  
 Solid foundation with an emphasis on process management, logistics, and resource optimization.
 
 ### 💼 Looking for Opportunities
