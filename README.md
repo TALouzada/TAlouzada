@@ -8,6 +8,8 @@ I'm a **Production Engineer** with experience in **digital commerce** and **syst
 - **Quality Analysis & Process Optimization**
 - **Purchasing Management & E-commerce Operations**
 
+---
+
 ### 🎓 Education
 
 **Bachelor's in Technology in Systems Development**  
@@ -15,14 +17,16 @@ I'm a **Production Engineer** with experience in **digital commerce** and **syst
 Start: 2024 — Expected Graduation: 2026  
 Focus on system development, programming, and technological solutions.
 
----
-
 **Bachelor's in Production Engineering**  
 *Universidade Estadual de Maringá* — Graduated in 2012  
 Solid foundation with an emphasis on process management, logistics, and resource optimization.
 
+---
+
 ### 💼 Looking for Opportunities
 I'm open to **new challenges**, whether as a **Software Developer, Quality Analyst**, or **Systems Analyst**. I'm also available for **freelance projects** in software development and system optimization.
+
+---
 
 ### 🛠️ Tech Stack
 - **Languages:** C++, JavaScript, Python
@@ -30,6 +34,8 @@ I'm open to **new challenges**, whether as a **Software Developer, Quality Analy
 - **Backend:** Node.js (basic), SQL
 - **Tools:** Git, GitHub, Jira, Agile methodologies
 - **Other:** Digital commerce platforms, ERP systems, API integrations
+
+---
 
 ### 📫 Let's Connect!
 - **GitHub:** [TALouzada](https://github.com/TALouzada)
