@@ -20,7 +20,7 @@ I'm open to **new challenges**, whether as a **Software Developer, Quality Analy
 
 ### 📫 Let's Connect!
 - **GitHub:** [TALouzada](https://github.com/TALouzada)
-- **LinkedIn:** [Thiago de Almeida Louzada](https://www.linkedin.com/in/thiago-de-almeida-louzada/) *(Replace with your actual link)*
+- **LinkedIn:** [Thiago de Almeida Louzada](https://www.linkedin.com/in/thiago-de-almeida-louzada/)
 - **Email:** thiagoalouzada@gmail.com
 
 Feel free to reach out for collaborations, job opportunities, or just to talk tech! 🚀
