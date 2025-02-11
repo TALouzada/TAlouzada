@@ -23,7 +23,7 @@ Solid foundation with an emphasis on process management, logistics, and resource
 I'm open to **new challenges**, whether as a **Software Developer, Quality Analyst**, or **Systems Analyst**. I'm also available for **freelance projects** in software development and system optimization.
 
 ### 🛠️ Tech Stack
-- **Languages:** C++, JavaScript, Python
+- **Languages:** C, C++, JavaScript, Python, PHP
 - **Frontend:** React, HTML, CSS
 - **Backend:** Node.js (basic), SQL
 - **Tools:** Git, GitHub, Jira, Agile methodologies
