@@ -9,11 +9,11 @@ I am a **Solutions Architect** specializing in **Process Automation and AI Integ
 
 My background as a **Production Engineer** isn't just a degree; it's the core of how I work. I don't just build software—I engineer end-to-end systems that drive real-world efficiency, reduce operational costs, and unlock business value.
 
-I specialize in the modern **"low-code + AI"** stack, using tools like **n8n** and **JavaScript (Node.js)** to orchestrate complex API workflows. My passion is integrating services like **OpenAI (GPT)** to transform raw, complex data (like credit reports) into intelligent analysis and actionable insights.
+I specialize in the modern **"low-code + AI"** stack, using tools like **n8n** and **JavaScript (Node.js)** to orchestrate complex API workflows. My passion is integrating **Generative AI (LLMs)** to transform raw, complex data (like reports from **Brazilian credit bureaus**) into strategic analysis and automated insights.
 
-- ⚙️ **I build:** High-impact automation pipelines that connect services like WhatsApp, SCPC/Serasa, Google Drive, and OpenAI.
+- ⚙️ **I build:** High-impact automation pipelines that connect services like WhatsApp, **credit & risk data APIs**, Google Drive, and **Generative AI models**.
 - 📈 **I deliver:** Measurable business outcomes—turning slow manual processes into instant, intelligent decisions.
--  bridging **I bridge:** The gap between business operations, data analysis, and technical implementation.
+- 🌉 **I bridge:** The gap between business operations, data analysis, and technical implementation.
 
 ### 🛠️ My Core Tech Stack
 
@@ -22,7 +22,7 @@ My stack is focused on **speed, integration, and intelligence**.
 | Category | Technologies |
 | :--- | :--- |
 | **Process Automation & Orchestration** | **n8n**, Make, JavaScript (Node.js) |
-| **AI & Data Integration** | **OpenAI (Prompt Engineering)**, Flowise, **API REST**, Webhooks, SQL |
+| **AI & Data Integration** | **Generative AI (LLM Prompt Engineering)**, Flowise, **API REST**, Webhooks, SQL |
 | **Business & Process** | Systems Architecture, Business Process Management (BPM), Risk Analysis |
 | **Core Technologies** | Git, GitHub, Docker, Agile Methodologies |
 
@@ -32,10 +32,10 @@ My stack is focused on **speed, integration, and intelligence**.
 
 I am currently developing a comprehensive case study for an automated credit analysis pipeline. This system:
 1.  Receives requests via **WhatsApp**.
-2.  Fetches raw data from **SCPC** and other sources.
+2.  Fetches raw data from **major Brazilian credit & risk bureaus** and other public sources.
 3.  Uses **JavaScript** to clean and structure massive JSON payloads.
 4.  Stores files securely in **Google Drive**.
-5.  Feeds the data to **OpenAI** with an advanced prompt for a full legal/risk analysis.
+5.  Feeds the data to a **Large Language Model (LLM)** with an advanced prompt for a full legal/risk analysis.
 6.  Delivers a complete, formatted report to an internal approval dashboard.
 
 *(Link for the full case study repository coming soon)*
