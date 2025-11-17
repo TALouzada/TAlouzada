@@ -9,9 +9,9 @@ I am a **Solutions Architect** specializing in **Process Automation and AI Integ
 
 My background as a **Production Engineer** isn't just a degree; it's the core of how I work. I don't just build software—I engineer end-to-end systems that drive real-world efficiency, reduce operational costs, and unlock business value.
 
-I specialize in the modern **"low-code + AI"** stack, using tools like **n8n** and **JavaScript (Node.js)** to orchestrate complex API workflows. My passion is integrating **Generative AI (LLMs)** to transform raw, complex data (like reports from **Brazilian credit bureaus**) into strategic analysis and automated insights.
+I specialize in the modern **"low-code + AI"** stack, using tools like **n8n** and **JavaScript (Node.js)** to orchestrate complex API workflows. My passion is integrating **Generative AI (LLMs)** to transform raw, complex data into strategic analysis and automated insights.
 
-- ⚙️ **I build:** High-impact automation pipelines that connect services like WhatsApp, **credit & risk data APIs**, Google Drive, and **Generative AI models**.
+- ⚙️ **I build:** High-impact automation pipelines that connect services like WhatsApp, APIs, Google Drive, and Generative AI models.
 - 📈 **I deliver:** Measurable business outcomes—turning slow manual processes into instant, intelligent decisions.
 - 🌉 **I bridge:** The gap between business operations, data analysis, and technical implementation.
 
@@ -36,7 +36,7 @@ I am currently developing a comprehensive case study for an automated credit ana
 3.  Uses **JavaScript** to clean and structure massive JSON payloads.
 4.  Stores files securely in **Google Drive**.
 5.  Feeds the data to a **Large Language Model (LLM)** with an advanced prompt for a full legal/risk analysis.
-6.  Delivers a complete, formatted report to an internal approval dashboard.
+6.  Delivers a complete, formatted report to an internal approval via **WhatsApp**.
 
 *(Link for the full case study repository coming soon)*
 
