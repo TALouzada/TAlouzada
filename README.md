@@ -57,5 +57,5 @@ My experience combines over a decade of process optimization with modern softwar
 
 I'm always open to connecting with other professionals in the automation, AI, and process engineering space.
 
-- **LinkedIn:** [Thiago de Almeida Louzada](https://www.linkedin.com/in/thiagoalouzada/)
+- **LinkedIn:** [Thiago de Almeida Louzada](https://www.linkedin.com/in/thiago-de-almeida-louzada/)
 - **Email:** thiagoalouzada@gmail.com
