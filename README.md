@@ -38,7 +38,7 @@ I am currently developing a comprehensive case study for an automated credit ana
 5.  Feeds the data to a **Large Language Model (LLM)** with an advanced prompt for a full legal/risk analysis.
 6.  Delivers a complete, formatted report to an internal approval via **WhatsApp**.
 
-*(Link for the full case study repository coming soon)*
+(https://github.com/TALouzada/ai-credit-analysis-pipeline/)
 
 ---
 
